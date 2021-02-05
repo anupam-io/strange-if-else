@@ -1,6 +1,6 @@
-# strange `if-else` parser using Bison
+# strange `if-else` parser using Flex & Bison
 
-This is a simple parser which can parse expressions in a strange way. The syntax for this language is very similar to `if-else` of C++. Inside curly braces or round braces, you can enter numbers or similar expressions.
+This is a simple parser which can parse expressions in a strange way. The syntax for this language is very similar to `if-else` of C++. Inside curly braces or round braces, you can enter numbers or similar expressions and it will evaluate the final result.
 
 ## Tokens used
 ```
